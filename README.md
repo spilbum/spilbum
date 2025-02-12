@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 안녕하세요, 13년차 서버 프로그래머 [이상필] 입니다.
 
-<!--
-**sangpileeds/sangpileeds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ 기술 스택
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-Here are some ideas to get you started:
+## 🚀 개인 프로젝트
+-- **[SP.Engine]** - 멀티플레이어 게임용 서버 엔진 개발
+-- **[Retro Block Puzzle]** - 2D기반 블로 퍼즐 게임 
+-- **[블로그](https://github.com/spilcowx.github.io)** - 개발 블로그 운영
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 연락처
+- 이메일: spilcowx@gmail.com
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=spilcowx&show_icons=true&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=spilcowx&color=blue)
+
+
