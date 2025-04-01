@@ -19,6 +19,7 @@
 - TCP 기반 비동기 통신 및 재전송 로직  
 - 세션 유지/복구 및 AES + DH 기반 보안 통신 구조  
 - 커스텀 프로토콜 + 클라이언트 연동 라이브러리
+- Thread + Timer 기반 경량 비동기 작업 스케줄러 구현
 
 ### [Retro Block Puzzle](https://github.com/spilbum/RetroBlockPuzzle)
 Unity 기반 2D 퍼즐 게임 (Android 출시)  
