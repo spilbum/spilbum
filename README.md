@@ -1,67 +1,81 @@
-<h1 align="center">👋 Hi, I'm Sangpil (이상필)</h1>
+# 👋 안녕하세요, 이상필입니다
+
+시니어 게임 서버 프로그래머 | 10년 이상 실시간 멀티플레이어 서버 아키텍처, 매칭, 랭킹, 운영 경험
 
 ---
 
-## 💡 About Me
-안녕하세요. 실시간 게임 서버와 분산 시스템 설계에 열정을 가진 서버 프로그래머 이상필입니다.
+## 🚀 About Me
+- **라이징윙스 (2014.09 ~ 2024.08)**  
+  모바일 PvP 게임 서버의 아키텍처 설계부터 핵심 시스템 구현·운영까지 전 과정을 주도.  
+  매칭·랭킹·세션 관리·실시간 동기화 등 코어 로직 개발과 주니어 코드 리뷰·설계 피드백을 통해 팀 생산성과 코드 품질 향상에 기여.  
 
-10년 이상 게임 서버 아키텍처, 실시간 PvP 시스템, 랭킹 시스템, 무중단 배포 등 다양한 핵심 서버 기능을 개발해왔으며, 최근에는 TCP 기반 커스텀 서버 엔진 개발을 통해 서버 구조에 대한 깊이 있는 통찰을 확장하고 있습니다.
-
-코드의 유연성과 유지보수성을 중시하며, 구조적 리팩토링과 자동화 도구 도입을 통해 **확장 가능한 서버 시스템**을 만들어가는 것을 목표로 합니다.
-
----
-
-## 🏢 Career
-
-### 🪽 RisingWings (2014.09 - 2024.08)
-- 실시간 PvP 게임에서의 **RTT 기반 매칭 시스템**, **세션 이동 처리**, **트래픽 기반 분산 서버 구조** 등을 설계 및 운영
-- SortedSet + LinkedList 기반 랭킹 구조, Chunk 분할 및 비동기 큐 기반 갱신 구조로 실시간 순위 처리 성능 최적화
-- AWS 기반 무중단 배포 시스템 운영, 빌드 이력 관리 및 S3 연동 자동화
-- WebSocket 기반 서버 엔진 개발 및 실시간 동기화 구조 설계
-- 2~3만 클라이언트 환경을 시뮬레이션하는 WPF 기반 스트레스 테스트 도구 개발
-- 팀원 코드 리뷰 및 설계 피드백을 통해 기술적 방향성과 코드 품질 향상에 기여
-
-### 🛡️ Joymax (2012.09 - 2014.09)
-- MMORPG '실크로드 온라인' 서버 유지보수 및 장애 대응
-- 실시간 트래픽 흐름과 서버 구조에 대한 기초 역량 확보
+- **조이맥스 (2012.09 ~ 2014.09)**  
+  MMORPG **실크로드 온라인** 라이브 서버 운영·유지보수, 장애 대응과 아키텍처 분석 경험을 통해 실시간 서비스 운영 감각을 축적.  
 
 ---
 
-## 🚀 Projects
-
-### 🧠 [SP.Engine](https://github.com/spilbum/SP.Engine)  
-> TCP 기반 멀티플레이어 게임 서버 엔진
-
-- 비동기 메시지 송수신 및 재전송 시퀀스 처리
-- 세션 유지 및 재접속 복원 처리
-- AES (256bit) + Diffie-Hellman 기반 보안 통신
-- 커스텀 메시지 헤더 구조 및 압축/암호화 플래그
-- 타이머 + 신호 기반 비동기 작업 스케줄러 설계
-
-### 🎮 [Retro Block Puzzle](https://github.com/spilbum/RetroBlockPuzzle)  
-> Unity 기반 퍼즐 게임 (Android 출시)
-
-- Unity로 전체 클라이언트 개발 및 출시
-- AdMob 연동 수익화 구조 구성  
-- [Google Play 링크](https://play.google.com/store/apps/details?id=com.lunchlunch.retroblockpuzzle)
+## 🔑 핵심 역량
+- 분산 서버 아키텍처 설계  
+- 실시간 매칭·랭킹 시스템 최적화  
+- 대규모 성능 검증 및 부하 테스트  
+- 게임 서버 엔진 및 핵심 모듈 개발  
+- 운영 자동화 및 코드 품질 개선  
 
 ---
 
-## 🔧 Tech Stack
-
-| 분야 | 기술 |
-|------|------|
-| **언어** | C#, C++ |
-| **서버/프레임워크** | .NET Framework, ASP.NET |
-| **네트워크** | TCP/IP, WebSocket, HTTP |
-| **DB** | MS SQL, MySQL, Redis |
-| **Infra** | AWS (EC2, S3, ELB, CloudFront) |
-| **운영/도구** | WPF, SVN, Git, Visual Studio |
+## 🛠 기술 스택
+**언어 & 프레임워크**: C#, .NET Framework/Core  
+**데이터베이스**: MS SQL, MySQL, Redis  
+**클라우드 & 인프라**: AWS (EC2, S3, ELB, CloudFront)  
+**네트워킹**: WebSocket, TCP/IP  
+**툴**: WPF, Git  
 
 ---
 
-## 📬 Resume & Contact
+## 📂 대표 프로젝트
 
-- 📄 [Resume PDF](https://drive.google.com/file/d/1ZPnQyHmkly1svteBi7dNnBm24H-m9n9f/view?usp=drive_link)  
-- 📧 spilbum@gmail.com  
-- 🔗 [GitHub](https://github.com/spilbum)
+### 🎮 Dodge Royal (2024)
+실시간 PvP 서바이벌 게임  
+- **멀티 리전 매칭**: RTT 기반 Region 선택 및 Failover 구조 설계로 안정적인 매칭 구현  
+- **랭킹 시스템**: Chunk 단위 분할·정렬 구조로 대규모 데이터 실시간 업데이트/조회 최적화  
+- **인게임 로직**: Photon Quantum 기반 동기화와 서버 상태 처리로 정합성·일관성 보장  
+
+---
+
+### 🎮 Bowmax (2018~2019)
+3vs3 팀 기반 PvP 슈팅 게임  
+- **매칭 시스템**: RTT 기반 서버 선택·Region Failover 구조로 지연 최소화  
+- **전용 PvP 서버**: 전투 특화 서버 아키텍처 설계·구현, 실시간 동기화 품질 확보  
+- **부하 시뮬레이터**: 대규모 접속 환경을 재현해 서버 성능 검증  
+
+---
+
+### 🎮 Mini Golf King (2019~2021)
+실시간 PvP 골프 게임  
+- **라이브 운영**: 장애·버그 대응으로 안정적인 서버 운영 유지  
+- **PvP 콘텐츠**: 티어 매칭, Zone 점령, 시즌제 랭킹·보상 로직 구현  
+- **신규 프로젝트 출시**: 내부적으로 낚시 게임을 설계·구현하여 별도 타이틀로 상용화  
+
+---
+
+### 🎮 Rio 2016 Olympic Games (2016)
+캐주얼 스포츠 게임 | ASP.NET 기반 서버 아키텍처  
+- **세션 관리**: ELB 세션 지속성과 Redis 세션 캐싱을 결합해 스테이트풀 서버 구현  
+- **랭킹 시스템**: Redis SortedSet으로 점수 정렬·범위 조회 고속화  
+- **데이터베이스 확장성**: MySQL 샤딩 및 Master-Slave 복제로 읽기/쓰기 분리  
+
+---
+
+### ⚙️ 사이드 프로젝트: SP.Engine
+TCP 기반 게임 서버 엔진  
+- **엔진 아키텍처 설계**: WebSocket 엔진 개발 경험을 확장해 TCP 기반 경량 서버 엔진 직접 설계  
+- **핵심 기능 통합**: 메시지 처리, 세션 복원, 암호화(DH·AES), 바이너리 직렬화 등 구현  
+- **엔진 고도화**: 전체 구조를 재구성하며 서버 아키텍처 인사이트 체계화  
+
+🔗 [GitHub Repository](https://github.com/spilbum/SP.Engine)
+
+---
+
+## 📫 Contact
+- **Email**: spilbum@gmail.com  
+- **GitHub**: [github.com/spilbum](https://github.com/spilbum)  
