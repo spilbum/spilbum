@@ -54,7 +54,7 @@
 ---
 
 ## 📊 Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=spilbum&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats-one.vercel.app/api?username=spilbum&show_icons=true&theme=radical)
 
 ---
 📫 **Contact**: spilbum@gmail.com
