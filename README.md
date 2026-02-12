@@ -7,7 +7,7 @@
 
 ## 🚀 Current Deep-Dive
 ### **[SP.Engine](https://github.com/spilbum/SP.Engine)**: TCP/UDP Hybrid Game Server Engine
-[cite_start]*과거 라이브 서비스용 엔진의 핵심 모듈을 개발했던 노하우를 집대성하여, 1인 개발로 구축 중인 고성능 게임 서버 엔진입니다.* 
+*과거 라이브 서비스용 엔진의 핵심 모듈을 개발했던 노하우를 집대성하여, 1인 개발로 구축 중인 고성능 게임 서버 엔진입니다.* 
 
 - **Core Architecture**: TCP/UDP 하이브리드 통신 모델 및 가변 네트워크 대응 세션 복원 메커니즘 설계 
 - **Network Optimization**: 바이너리 패킷 직렬화 구조 설계 및 고성능 네트워크 IO 처리 최적화 
@@ -46,7 +46,7 @@
 | Category | Details |
 | :--- | :--- |
 | **Languages** | C# (Expert), C++ |
-| **Framework** | .NET Framework, .NET 8, ASP.NET |
+| **Framework** | .NET 8/Framework, ASP.NET |
 | **Network** | TCP/IP, WebSocket, HTTP |
 | **Database** | MS SQL, MySQL, Redis |
 | **Infrastructure** | AWS (EC2, S3, ELB, CloudFront)  |
